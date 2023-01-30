@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tejasg910
 - 👀 I’m interested in Web Applications
 - 🌱 I’m currently learning MERN STACK
-- 💞️ developed fully working ecommerse website
+- 💞️ love to code 
 - 📫 How to reach me 
 - Instagram: tejas_giri24
 - Twitter: alfacoder1
